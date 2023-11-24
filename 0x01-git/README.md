@@ -1,1 +1,1 @@
-git proojects
+git projects
